@@ -7,4 +7,3 @@ ReactJS
 Sass
 Firebase
 React Router
-
